@@ -1,0 +1,7 @@
+mohmed ahmed ,45,male,01202498297,anatomy,1,450,from saturday to wendsday,from 12:00 pm to 3:00 am
+mohmed hassan,50,male,01288774232,cardiology,2,550,from sunday to thursday,12 hiurs
+יי,54,י,01288774232,55,3,55,55,55
+ff,25,ff,01288774232,fff,45,25,dd,dd
+yy,55,yy,01288774232,yy,44,0,,
+gg,5,gg,01288888888,gg,105,0,,
+kk,55,bf,01288774232,ff,60,55,ff,ff

@@ -1,0 +1,4 @@
+ahmed ali,60,male,01288774235,101,eminya,oncology,22/5,2
+omar ahmed,36,male,01288774256,102,cairo,urology,24/7,1
+ahmed mohmed,45,male,01202498299,103,egypt,headech,11/8,3
+ggg,25,gg,01277441235,3,ff,fff

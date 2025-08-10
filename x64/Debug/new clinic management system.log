@@ -1,0 +1,20 @@
+﻿  doctor.cpp
+  new clinic management system.cpp
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(90,13): warning C4566: character represented by universal-character-name '\u2714' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(93,33): warning C4566: character represented by universal-character-name '\U0001FA7A' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(94,33): warning C4566: character represented by universal-character-name '\U0001F194' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(95,33): warning C4566: character represented by universal-character-name '\U0001F4B0' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(96,33): warning C4566: character represented by universal-character-name '\U0001F4C5' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(97,33): warning C4566: character represented by universal-character-name '\u23F0' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(148,13): warning C4566: character represented by universal-character-name '\U0001F491' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(206,13): warning C4566: character represented by universal-character-name '\U0001F4C5' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(208,33): warning C4566: character represented by universal-character-name '\U0001F464' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(209,33): warning C4566: character represented by universal-character-name '\U0001F9D1' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(209,33): warning C4566: character represented by universal-character-name '\u2695' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(209,33): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(210,33): warning C4566: character represented by universal-character-name '\U0001F4C6' cannot be represented in the current code page (1256)
+C:\Users\AL Motahida\source\repos\new clinic management system\new clinic management system\doctor.cpp(211,33): warning C4566: character represented by universal-character-name '\u23F0' cannot be represented in the current code page (1256)
+  patient.cpp
+  person.cpp
+  Generating Code...
+  new clinic management system.vcxproj -> C:\Users\AL Motahida\source\repos\new clinic management system\x64\Debug\new clinic management system.exe
